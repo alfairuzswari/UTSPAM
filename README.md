@@ -4,7 +4,7 @@ Kelas       : 120140102\
 Mata Kuliah : Pengembangan Aplikasi Mobile - RB
 
 ## Aplikasi E-Commerce Belanja Kuy 
-## Download Aplikasi
+## Download Aplikasi (tidak bisa upload di github, file > 25 mb)
 https://drive.google.com/file/d/1Og5txmerSfxzT1lhK20QZQBDVtCAVa3X/view?usp=sharing
 
 ### Description
