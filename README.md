@@ -4,6 +4,8 @@ Kelas       : 120140102\
 Mata Kuliah : Pengembangan Aplikasi Mobile - RB
 
 ## Aplikasi E-Commerce Belanja Kuy 
+## Download Aplikasi
+https://drive.google.com/file/d/1Og5txmerSfxzT1lhK20QZQBDVtCAVa3X/view?usp=sharing
 
 ### Description
 ini adalah aplikasi belanja makanan ringan, di mana pada aplikasi ini terdapat menu profil yang menampilkan informasi diri saya\
